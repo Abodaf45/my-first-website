@@ -1,0 +1,158 @@
+#v1{
+    
+    text-align: center
+    
+    } 
+    .c1{
+        
+        background-color: blue;
+        border-color: blue;
+        border-radius: 5px
+        
+    }
+     .c2{
+        
+        width:30%;
+        border-radius: 5px
+        
+    }
+     .c3{
+        
+        background-color: green;
+        border-color: green;
+        border-radius: 5px
+        
+    }
+      #v9{
+    
+    text-align: center
+    
+    } 
+    
+	    #v3{
+    
+    text-align: center
+     
+    } 
+       #k1{
+    
+    text-align: center;
+	 background-color: blue;
+	 font-family: sans-serif;
+	 font-size: 15px;
+	 
+     
+    } 
+    
+	      #k2{
+    
+    text-align: center;
+	 background-color: blue;
+	 font-family: sans-serif;
+	 font-size: 15px;
+	 
+	 
+     
+    } 
+    #k4{
+		color: white;
+		font-size: 25px
+		
+	 }
+	 
+     #k5{
+		color: white;
+		font-size: 25px
+		
+	 }
+	 #k9{
+		
+		background-color: blue;
+		
+		
+		
+	 }
+    
+	     #k11{
+		color: white;
+		font-size: 25px
+		
+	 }
+	 
+	    #k13{
+		color: white;
+		font-size: 12px
+		
+	 }
+	 #d11{
+		background-color: green;
+		border-color: green
+		
+	 }
+	 .img90{
+		height: 400px;
+		width: 100%;
+	 }
+	 .a20{
+		width: 100%;
+		display: flex;
+		justify-content: center;
+		align-content: center;
+		align-items: center;
+		flex-wrap: nowrap;
+		
+	
+		
+		
+	 }
+	 .d800{
+		height: 300px;
+	 }
+	 #d15{
+		text-align: center;
+		font-size: 30px;
+		font-family: 'Times New Roman', Times, serif;
+		font-style: italic;
+		font-weight: 100;
+		color: white;
+	 }
+	 #d35{
+		background-color: black;
+	 }
+	 #d16{
+	 	text-align: center;
+		font-size: 30px;
+		font-family: 'Times New Roman', Times, serif;
+		font-style: italic;
+		font-weight: 100;
+		color: black;
+	 }
+	 .i500{
+		width: 20px;
+		height: 20px;
+		margin-left: 5px;
+	 }
+	 .a21{
+		text-align: left;
+		float: left;
+		margin-left: 300px;
+	 }
+	 .a22{
+		text-align: right;
+		margin-right: 350px;
+	 }
+	 .a23{
+		text-align: left;
+		float: left;
+		margin-left: 350px;
+	 }
+	 .a24{
+		text-align: right;
+		margin-right: 350px;
+	 }
+	 .a25{
+		text-align: center;
+	 }
+	 .tr1{
+		text-align: center;
+	 }
